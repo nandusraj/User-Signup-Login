@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\UserRegistration\UserRegistration\bin\Debug\netcoreapp2.1\UserRegistration.deps.json
+C:\Users\HP\source\repos\UserRegistration\UserRegistration\bin\Debug\netcoreapp2.1\UserRegistration.runtimeconfig.json
+C:\Users\HP\source\repos\UserRegistration\UserRegistration\bin\Debug\netcoreapp2.1\UserRegistration.runtimeconfig.dev.json
+C:\Users\HP\source\repos\UserRegistration\UserRegistration\bin\Debug\netcoreapp2.1\UserRegistration.dll
+C:\Users\HP\source\repos\UserRegistration\UserRegistration\bin\Debug\netcoreapp2.1\UserRegistration.pdb
+C:\Users\HP\source\repos\UserRegistration\UserRegistration\obj\Debug\netcoreapp2.1\UserRegistration.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\UserRegistration\UserRegistration\obj\Debug\netcoreapp2.1\UserRegistration.RazorAssemblyInfo.cache
+C:\Users\HP\source\repos\UserRegistration\UserRegistration\obj\Debug\netcoreapp2.1\UserRegistration.RazorAssemblyInfo.cs
+C:\Users\HP\source\repos\UserRegistration\UserRegistration\obj\Debug\netcoreapp2.1\UserRegistration.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\UserRegistration\UserRegistration\obj\Debug\netcoreapp2.1\UserRegistration.AssemblyInfo.cs
+C:\Users\HP\source\repos\UserRegistration\UserRegistration\obj\Debug\netcoreapp2.1\UserRegistration.RazorTargetAssemblyInfo.cache
+C:\Users\HP\source\repos\UserRegistration\UserRegistration\obj\Debug\netcoreapp2.1\UserRegistration.dll
+C:\Users\HP\source\repos\UserRegistration\UserRegistration\obj\Debug\netcoreapp2.1\UserRegistration.pdb
+C:\Users\HP\source\repos\UserRegistration\UserRegistration\obj\Debug\netcoreapp2.1\UserRegistration.csproj.CoreCompileInputs.cache
